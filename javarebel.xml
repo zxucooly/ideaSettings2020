@@ -1,13 +1,16 @@
 <application>
   <component name="JavaRebelPlugin">
+    <option name="griffin" value="false" />
     <option name="ideInstallationStorage">
       <map>
         <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+        <entry key="com.zeroturnaround.jrebel.NoExternalAutoconvert" value="false" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autosave.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2020.1.0" />
       </map>
     </option>
+    <option name="javaRebelPath" value="C:/zxuws/EP/eclipse4.9/plugins/org.zeroturnaround.eclipse.embedder_2019.1.5.RELEASE/jrebel/jrebel.jar" />
   </component>
 </application>
