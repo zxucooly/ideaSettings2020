@@ -4,4 +4,13 @@
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="USE_LIGATURES" value="true" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
 </application>
