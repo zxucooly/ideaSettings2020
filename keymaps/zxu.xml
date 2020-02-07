@@ -10,6 +10,7 @@
   <action id="ChangesView.Diff">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift alt w" />
   </action>
@@ -49,6 +50,10 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
@@ -79,6 +84,7 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="SendEOF" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.CopyWatch" />
   <action id="context.clear" />
   <action id="context.save" />
