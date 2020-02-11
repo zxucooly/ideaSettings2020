@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Helper class that encapsulates a specific set of target listeners, * allowing for efficient retrieval of pre-filtered listeners. * &lt;p&gt;An instance of this helper gets cached per event type and source type." />
       <item value="retriever" />
       <item value="Explicitly remove target for a proxy, if registered already, // in order to avoid double invocations of the same listener." />
       <item value="default Retriever" />
@@ -11,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
