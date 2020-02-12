@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Allow for the collection of early ApplicationEvents, // to be published once the multicaster is available..." />
+      <item value="Initialize any placeholder property sources in the context environment." />
+      <item value="Prepare this context for refreshing, setting its startup date and * active flag as well as performing any initialization of property sources." />
+      <item value="Stub" />
       <item value="Mutable" />
       <item value="Generic Application Listener" />
       <item value="Determine whether the given listener supports the given event. * &lt;p&gt;The default implementation detects the {@link SmartApplicationListener} * and {@link GenericApplicationListener} interfaces. In case of a standard * {@link ApplicationListener}, a {@link GenericApplicationListenerAdapter} * will be used to introspect the generically declared type of the target listener." />
@@ -16,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
