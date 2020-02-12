@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Determine whether the given listener supports the given event. * &lt;p&gt;The default implementation detects the {@link SmartApplicationListener} * and {@link GenericApplicationListener} interfaces. In case of a standard * {@link ApplicationListener}, a {@link GenericApplicationListenerAdapter} * will be used to introspect the generically declared type of the target listener." />
+      <item value="detects" />
       <item value="Helper class that encapsulates a specific set of target listeners, * allowing for efficient retrieval of pre-filtered listeners. * &lt;p&gt;An instance of this helper gets cached per event type and source type." />
       <item value="retriever" />
       <item value="Explicitly remove target for a proxy, if registered already, // in order to avoid double invocations of the same listener." />
@@ -12,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
