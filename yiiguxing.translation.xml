@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Do not initialize FactoryBeans here: We need to leave all regular beans // uninitialized to let the bean factory post-processors apply to them! // Separate between BeanDefinitionRegistryPostProcessors that implement // PriorityOrdered, Ordered, and the rest." />
+      <item value="between" />
+      <item value="regular Post Processors" />
       <item value="Invoke factory processors registered as beans in the context." />
       <item value="Register bean processors that intercept bean creation." />
       <item value="Abstract Type Hierarchy Traversing Filter" />
@@ -34,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
