@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="temporary" />
       <item value="Interface for registries that hold bean definitions, for example RootBeanDefinition * and ChildBeanDefinition instances. Typically implemented by BeanFactories that * internally work with the AbstractBeanDefinition hierarchy. * * &lt;p&gt;This is the only interface in Spring's bean factory packages that encapsulates * &lt;i&gt;registration&lt;/i&gt; of bean definitions. The standard BeanFactory interfaces * only cover access to a &lt;i&gt;fully configured factory instance&lt;/i&gt;. * * &lt;p&gt;Spring's bean definition readers expect to work on an implementation of this * interface. Known implementors within the Spring core are DefaultListableBeanFactory * and GenericApplicationContext." />
       <item value="encapsulates" />
       <item value="Apply the given relative path to the given Java resource path, * assuming standard Java folder separation (i.e. &quot;/&quot; separators)." />
@@ -27,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
