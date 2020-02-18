@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SPI" />
       <item value="explicit" />
       <item value="synthetic" />
       <item value="Do not initialize FactoryBeans here: We need to leave all regular beans // uninitialized to let the bean factory post-processors apply to them! // Separate between BeanDefinitionRegistryPostProcessors that implement // PriorityOrdered, Ordered, and the rest." />
@@ -39,8 +40,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="36" />
+        <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
   </component>
