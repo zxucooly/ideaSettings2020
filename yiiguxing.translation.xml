@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dispatching" />
+      <item value="request" />
+      <item value="Principal" />
+      <item value="If such a callback is not supported by the * underlying runtime environment, the callback &lt;i&gt;must be ignored&lt;/i&gt; * and a corresponding warning should be logged." />
+      <item value="respectively" />
       <item value="is performed" />
       <item value="publishing an event regardless of the outcome." />
       <item value="The actual event handling is performed by the abstract" />
@@ -46,16 +51,11 @@
       <item value="Initialize any placeholder property sources in the context environment." />
       <item value="Prepare this context for refreshing, setting its startup date and * active flag as well as performing any initialization of property sources." />
       <item value="Stub" />
-      <item value="Mutable" />
-      <item value="Generic Application Listener" />
-      <item value="Determine whether the given listener supports the given event. * &lt;p&gt;The default implementation detects the {@link SmartApplicationListener} * and {@link GenericApplicationListener} interfaces. In case of a standard * {@link ApplicationListener}, a {@link GenericApplicationListenerAdapter} * will be used to introspect the generically declared type of the target listener." />
-      <item value="detects" />
-      <item value="Helper class that encapsulates a specific set of target listeners, * allowing for efficient retrieval of pre-filtered listeners. * &lt;p&gt;An instance of this helper gets cached per event type and source type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
