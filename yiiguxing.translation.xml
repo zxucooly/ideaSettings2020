@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="potentially" />
+      <item value="Matchable" />
       <item value="dispatching" />
       <item value="request" />
       <item value="Principal" />
@@ -49,13 +51,11 @@
       <item value="canonical" />
       <item value="// Allow for the collection of early ApplicationEvents, // to be published once the multicaster is available..." />
       <item value="Initialize any placeholder property sources in the context environment." />
-      <item value="Prepare this context for refreshing, setting its startup date and * active flag as well as performing any initialization of property sources." />
-      <item value="Stub" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
