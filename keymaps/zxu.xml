@@ -7,6 +7,7 @@
   <action id="$TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="ChangesView.Diff">
     <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
@@ -59,6 +60,10 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="shift ctrl o" />
     <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
