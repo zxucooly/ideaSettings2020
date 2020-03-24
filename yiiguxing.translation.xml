@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Claims" />
       <item value="Device Type" />
       <item value="commence" />
-      <item value="Claims" />
       <item value="mbg" />
       <item value="环境监测设备" />
       <item value="warning" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SLOVENIAN" value="1" />
