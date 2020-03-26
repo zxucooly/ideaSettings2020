@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sync" />
       <item value="Claims" />
       <item value="Device Type" />
       <item value="commence" />
@@ -50,11 +51,10 @@
       <item value="whether to initialize &lt;i&gt;lazy-init singletons&lt;/i&gt; and * &lt;i&gt;objects created by FactoryBeans&lt;/i&gt; (or by factory methods with a * &quot;factory-bean&quot; reference) for the type check. Note that FactoryBeans need to be * eagerly initialized to determine their type: So be aware that passing in &quot;true&quot; * for this flag will initialize FactoryBeans and &quot;factory-bean&quot; references. * @return a Map with the matching beans, containing the bean names as * keys and the corresponding bean instances as values * @throws BeansException if a bean could not be created" />
       <item value="the raw FactoryBean itself will be matched against the * type" />
       <item value="// Either the context is not a ConfigurableApplicationContext with refresh // support or the context injected at construction time had already been // refreshed -&gt; trigger initial onRefresh manually here." />
-      <item value="retrieve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
+        <entry key="CHINESE" value="81" />
         <entry key="ENGLISH" value="81" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
