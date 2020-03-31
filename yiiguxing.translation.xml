@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Nows Day" />
       <item value="bussiness" />
       <item value="DownloadInfoType methodno DownloadClassPath DownloadUrl xmltext" />
       <item value="班组信息" />
@@ -50,12 +51,11 @@
       <item value="optionally accompanied" />
       <item value="The former is the default if no * HandlerMapping bean is registered in the application context." />
       <item value="although" />
-      <item value="In case of FactoryBean, match object created by FactoryBean." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SLOVENIAN" value="1" />
