@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Iot Devicecenter List Action QY" />
       <item value="valite" />
       <item value="valid" />
       <item value="Nows Day" />
@@ -50,12 +51,11 @@
       <item value="latter" />
       <item value="repetitive" />
       <item value="granularity" />
-      <item value="optionally accompanied" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
