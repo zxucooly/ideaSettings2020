@@ -4,15 +4,16 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pom" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>*.pom</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>*.pom</mask>
   </component>
 </application>
