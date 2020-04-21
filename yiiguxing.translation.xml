@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="positive" />
       <item value="Runnable" />
       <item value="Hand" />
       <item value="reinstate Headless Property" />
@@ -50,12 +51,11 @@
       <item value="The actual event handling is performed by the abstract" />
       <item value="regardless of the outcome." />
       <item value="Mutable Property Values" />
-      <item value="Request To View Name Translator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
