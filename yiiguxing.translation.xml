@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DESC" />
       <item value="判断" />
       <item value="transient" />
       <item value="positive" />
@@ -50,12 +51,11 @@
       <item value="respectively" />
       <item value="is performed" />
       <item value="publishing an event regardless of the outcome." />
-      <item value="The actual event handling is performed by the abstract" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
