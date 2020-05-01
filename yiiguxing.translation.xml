@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="excess" />
       <item value="set" />
       <item value="enum" />
       <item value="广域网" />
@@ -50,12 +51,11 @@
       <item value="Matchable" />
       <item value="dispatching" />
       <item value="request" />
-      <item value="Principal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
