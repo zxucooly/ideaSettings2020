@@ -11,5 +11,10 @@
     <option name="isMethodCompletionsPercentageActive" value="true" />
     <option name="isMethodCompletionsPercentageSet" value="true" />
     <option name="isOverrideDoubleCtrlOpenSearch" value="true" />
+    <option name="usedLanguages">
+      <set>
+        <option value="java" />
+      </set>
+    </option>
   </component>
 </application>
