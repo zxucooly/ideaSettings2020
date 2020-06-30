@@ -10,4 +10,16 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="adde" value="// add by zxu $date$ for $END$ end" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="adds" value="// add by zxu $date$ for $END$ end" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
