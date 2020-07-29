@@ -5,6 +5,7 @@
       <Rule active="false" key="squid:SE2010" />
       <Rule active="false" key="Web:EpointKeywordCheck" />
       <Rule active="false" key="Web:EpointJsSymbolCheck" />
+      <Rule active="false" key="java:S3457" />
       <Rule active="false" key="Web:EpointLocationOrCookieOrEvalCheck" />
     </rules>
   </component>
