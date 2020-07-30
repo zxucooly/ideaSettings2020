@@ -98,7 +98,7 @@
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt j" />
-    <keyboard-shortcut first-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="SendEOF" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
