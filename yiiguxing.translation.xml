@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bussiness" />
       <item value="Noise" />
       <item value="successor" />
       <item value="Cancels an ongoing attempt to acquire." />
@@ -50,12 +51,11 @@
       <item value="环境监测设备" />
       <item value="warning" />
       <item value="camera" />
-      <item value="项目回收战" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
