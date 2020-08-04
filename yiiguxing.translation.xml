@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="service activator" />
+      <item value="Indicates that a method is capable of handling a message or message payload." />
       <item value="inbound" />
       <item value="retained" />
       <item value="Bussiness" />
@@ -49,13 +51,11 @@
       <item value="Claims" />
       <item value="Device Type" />
       <item value="commence" />
-      <item value="mbg" />
-      <item value="环境监测设备" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="121" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
