@@ -16,8 +16,8 @@
     <mask>*html</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
+    <mask>*.java</mask>
   </component>
 </application>
