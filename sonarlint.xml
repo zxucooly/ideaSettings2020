@@ -1,6 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="autoTrigger" value="false" />
     <rules>
       <Rule active="false" key="squid:SE2010" />
       <Rule active="false" key="Web:EpointKeywordCheck" />
