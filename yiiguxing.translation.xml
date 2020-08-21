@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ha safety helmet" />
+      <item value="hassafetyhelmet" />
       <item value="Field" />
       <item value="Filed" />
       <item value="prescribed" />
@@ -49,15 +51,14 @@
       <item value="授权项目" />
       <item value="Iot Devicecenter List Action QY" />
       <item value="valite" />
-      <item value="valid" />
-      <item value="Nows Day" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
+        <entry key="CHINESE" value="129" />
         <entry key="ENGLISH" value="129" />
         <entry key="ESTONIAN" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="FINNISH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="SLOVENIAN" value="1" />
       </map>
