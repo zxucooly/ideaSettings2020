@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lenient" />
       <item value="datum" />
       <item value="ratio" />
       <item value="Angle" />
@@ -50,12 +51,11 @@
       <item value="Runnable" />
       <item value="Hand" />
       <item value="reinstate Headless Property" />
-      <item value="Indicates the dependency is optional for use of this library. While the version of the dependency will be taken into account for dependency calculation if the library is used elsewhere, it will not be passed on transitively." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
