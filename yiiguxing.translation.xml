@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reflective Matcher" />
+      <item value="Reflective" />
       <item value="lenient" />
       <item value="datum" />
       <item value="ratio" />
@@ -49,18 +51,17 @@
       <item value="transient" />
       <item value="positive" />
       <item value="Runnable" />
-      <item value="Hand" />
-      <item value="reinstate Headless Property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="133" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="SLOVENIAN" value="1" />
       </map>
     </option>
