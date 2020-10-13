@@ -166,6 +166,10 @@
           <option name="url" value="https://gitee.com/elunez/eladmin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://hub.fastgit.org/elunez/eladmin-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\GitHub" />
