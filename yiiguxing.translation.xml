@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cuisine" />
       <item value="commodity" />
       <item value="member" />
       <item value="shell" />
@@ -50,15 +51,14 @@
       <item value="enum" />
       <item value="广域网" />
       <item value="is Descending" />
-      <item value="DESC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
+        <entry key="CHINESE" value="136" />
         <entry key="ENGLISH" value="136" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="FINNISH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
