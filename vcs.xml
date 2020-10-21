@@ -190,6 +190,10 @@
           <option name="url" value="https://github.com/JunzhouLiu/BILIBILI-HELPER.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com.cnpmjs.org/Snailclimb/JavaGuide.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\GitHub" />
