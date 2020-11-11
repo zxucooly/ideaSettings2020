@@ -1,12 +1,17 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
     <rules>
-      <Rule active="false" key="squid:SE2010" />
       <Rule active="false" key="Web:EpointKeywordCheck" />
-      <Rule active="false" key="squid:S1166" />
+      <Rule active="false" key="squid:SE2010" />
       <Rule active="false" key="Web:EpointJsSymbolCheck" />
+      <Rule active="false" key="squid:S1166" />
+      <Rule active="false" key="javascript:SE1003" />
+      <Rule active="false" key="javascript:SE1002" />
       <Rule active="false" key="squid:S2589" />
+      <Rule active="false" key="Web:EpointScriptCheck" />
       <Rule active="false" key="Web:EpointLocationOrCookieOrEvalCheck" />
+      <Rule active="false" key="javascript:SE1001" />
       <Rule active="false" key="squid:SE2004" />
       <Rule active="false" key="java:S3457" />
     </rules>
