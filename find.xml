@@ -9,10 +9,10 @@
     <mask>*.pom</mask>
     <mask>*html</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
