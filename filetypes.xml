@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="angularclibin" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
