@@ -218,6 +218,10 @@
           <option name="url" value="https://github.com.cnpmjs.org/fuzhengwei/interview.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xuwujing/Netty-study.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\GitHub" />
