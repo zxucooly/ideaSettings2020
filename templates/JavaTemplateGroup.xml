@@ -1,0 +1,12 @@
+<templateSet group="JavaTemplateGroup">
+  <template name="*" value="/**&#10; * TODO: 方法描述&#10; * @author zxu&#10; * @date $date$ $time$&#10; $param$&#10; * @return $return$&#10; * @throws $throws$&#10; */" description="方法注释参数" toReformat="false" toShortenFQNames="true">
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+='* @param: ' + params[i] + ((i &lt; params.size() - 1) ? '\\n ' : '')};return result&quot;, methodParameters()) groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=' * @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n\\b' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="throws" expression="expressionType(Expression)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
