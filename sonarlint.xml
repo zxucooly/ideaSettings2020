@@ -1,8 +1,9 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <rules>
-      <Rule active="false" key="java:S3457" />
+      <Rule active="false" key="Web:EpointJsSymbolCheck" />
       <Rule active="false" key="squid:SE-version" />
+      <Rule active="false" key="java:S3457" />
     </rules>
   </component>
 </application>
