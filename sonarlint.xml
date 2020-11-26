@@ -9,7 +9,7 @@
       <Rule key="squid:SE-GGAQ-022" />
       <Rule key="squid:EmptyStatementUsageCheck" />
       <Rule key="squid:SE-GGAQ-021" />
-      <Rule key="squid:SE-GGAQ-020" />
+      <Rule active="false" key="squid:SE-GGAQ-020" />
       <Rule key="squid:S1845" />
       <Rule key="squid:S18541" />
       <Rule key="squid:S00117" />
