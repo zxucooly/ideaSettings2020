@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obsolete" />
+      <item value="* &lt;p&gt;This interface takes the place of the &lt;tt&gt;Dictionary&lt;/tt&gt; class, which * was a totally abstract class rather than an interface." />
       <item value="5" />
       <item value="Toggles the endianness of the specified 32-bit integer." />
       <item value="UDT" />
@@ -49,13 +51,11 @@
       <item value="statements" />
       <item value="They allow more flexible structuring, may have * quite different properties, and may support multiple associated * {@link Condition} objects." />
       <item value="Lock} implementations provide more extensive locking * operations than can be obtained using {@code synchronized} methods * and statements. They allow more flexible structuring, may have * quite different properties, and may support multiple associated * {@link Condition} objects." />
-      <item value="circumstances" />
-      <item value="lies dormant" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="ENGLISH" value="143" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
