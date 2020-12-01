@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Completion Stage" />
       <item value="contract" />
       <item value="* The following message is a simple variation of the first example. An extra * header value is prepended to the message. &lt;tt&gt;lengthAdjustment&lt;/tt&gt; is zero * again because the decoder always takes the length of the prepended data into * account during frame length calculation." />
       <item value="simplistic parameter * combination." />
@@ -50,12 +51,11 @@
       <item value="* Various flavors of acquire, varying in exclusive/shared and * control modes. Each is mostly the same, but annoyingly * different. Only a little bit of factoring is possible due to * interactions of exception mechanics (including ensuring that we * cancel if tryAcquire throws exception) and other control, at * least not without hurting performance too much." />
       <item value="Try the fast path of enq; backup to full enq on failure" />
       <item value="exclusive Owner Thread" />
-      <item value="Performs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
