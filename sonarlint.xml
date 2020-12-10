@@ -1,6 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="autoTrigger" value="false" />
     <rules>
       <Rule key="squid:SE2019" />
       <Rule key="squid:TrailingCommentCheck" />
