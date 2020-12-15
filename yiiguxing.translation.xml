@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An annotation that marks a {@link Job} class as one that must not have multiple instances executed concurrently (where instance is based-upon a {@link JobDetail} definition - or in other words based upon a {@link JobKey})." />
+      <item value="Disallow Concurrent Execution" />
       <item value="Engineer" />
       <item value="ACCOUNTOPENED" />
       <item value="PENDINGACCOUNTOPENING" />
@@ -49,13 +51,11 @@
       <item value="inbound" />
       <item value="retained" />
       <item value="Bussiness" />
-      <item value="Noise" />
-      <item value="successor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607234097008" />
+    <option name="lastTrimTime" value="1607993099121" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
