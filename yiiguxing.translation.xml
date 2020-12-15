@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Miscellaneous" />
+      <item value="juergen" />
       <item value="testfixture" />
       <item value="blur" />
       <item value="An annotation that marks a {@link Job} class as one that must not have multiple instances executed concurrently (where instance is based-upon a {@link JobDetail} definition - or in other words based upon a {@link JobKey})." />
@@ -49,13 +51,11 @@
       <item value="desired" />
       <item value="Rendezvous" />
       <item value="service activator" />
-      <item value="Indicates that a method is capable of handling a message or message payload." />
-      <item value="inbound" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
