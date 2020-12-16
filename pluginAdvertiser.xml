@@ -29,6 +29,22 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ad">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.adoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.aidl">
           <value>
             <plugin>
@@ -89,6 +105,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.asciidoc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
             </plugin>
           </value>
         </entry>
@@ -833,9 +857,8 @@
         <entry key="*.json">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij" />
-              <option name="myPluginName" value="IDEA CORE" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.alibabacloud.intellij.toolkit-intellij" />
+              <option name="myPluginName" value="Alibaba Cloud Toolkit" />
             </plugin>
           </value>
         </entry>
@@ -980,6 +1003,14 @@
               <option name="myPluginId" value="org.coffeescript" />
               <option name="myPluginName" value="CoffeeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.log">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.ideolog" />
+              <option name="myPluginName" value="Ideolog" />
             </plugin>
           </value>
         </entry>
@@ -1697,9 +1728,8 @@
         <entry key="*.yaml">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.plugins.yaml" />
-              <option name="myPluginName" value="YAML" />
-              <option name="myBundled" value="true" />
+              <option name="myPluginId" value="com.alibabacloud.intellij.toolkit-intellij" />
+              <option name="myPluginName" value="Alibaba Cloud Toolkit" />
             </plugin>
           </value>
         </entry>
@@ -1727,6 +1757,14 @@
               <option name="myPluginId" value="com.jetbrains.sh" />
               <option name="myPluginName" value="Shell Script" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".asciidoctorconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.asciidoctor.intellij.asciidoc" />
+              <option name="myPluginName" value="AsciiDoc" />
             </plugin>
           </value>
         </entry>
@@ -2145,6 +2183,11 @@
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="Cloud Toolkit Multirun">
+                    <value>
+                      <FeaturePluginData displayName="Cloud Toolkit Multirun" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" />
@@ -2155,9 +2198,39 @@
                       <FeaturePluginData displayName="Cucumber Java" pluginName="Cucumber for Java" pluginId="cucumber-java" />
                     </value>
                   </entry>
+                  <entry key="DEPLOY_ACS_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Deploy to Registry / Kubernetes" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
+                  <entry key="DEPLOY_CLOUD_APP_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Deploy to Mini Program" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
+                  <entry key="DEPLOY_HOST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Deploy to Host" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="ECS_RUN_CONFIGRATION">
+                    <value>
+                      <FeaturePluginData displayName="ECS on Alibaba Cloud" pluginName="Alibaba Cloud Toolkit" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
+                  <entry key="EDAS_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="EDAS on Alibaba Cloud" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
+                    </value>
+                  </entry>
+                  <entry key="EDAS_SERVERLESS_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="SAE on Alibaba Cloud" pluginName="com.alibabacloud.intellij.toolkit-intellij" pluginId="com.alibabacloud.intellij.toolkit-intellij" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
