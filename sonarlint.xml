@@ -1,5 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
     <rules>
       <Rule key="squid:SE2019" />
       <Rule key="squid:TrailingCommentCheck" />
@@ -8,8 +9,8 @@
       <Rule key="squid:S1659" />
       <Rule key="squid:S00108" />
       <Rule key="squid:S2142" />
-      <Rule key="squid:S1197" />
       <Rule key="squid:S1450" />
+      <Rule key="squid:S1197" />
       <Rule key="squid:S3358" />
       <Rule key="squid:SE-GGAQ-007" />
       <Rule active="false" key="squid:SE-version" />
@@ -22,19 +23,19 @@
       <Rule key="squid:S00117" />
       <Rule key="squid:S1065" />
       <Rule key="squid:S818" />
-      <Rule key="squid:SE-GGAQ-018" />
       <Rule key="squid:S1068" />
+      <Rule key="squid:SE-GGAQ-018" />
       <Rule key="squid:S1124" />
       <Rule key="squid:UselessImportCheck" />
       <Rule key="squid:SE2018" />
       <Rule key="squid:S44251" />
-      <Rule key="squid:MissingDeprecatedCheck" />
       <Rule key="squid:UnusedPrivateMethod" />
+      <Rule key="squid:MissingDeprecatedCheck" />
       <Rule key="squid:S1481" />
       <Rule active="false" key="java:S3457" />
       <Rule key="squid:S2094" />
-      <Rule key="squid:S29751" />
       <Rule key="squid:CallToDeprecatedMethod" />
+      <Rule key="squid:S29751" />
     </rules>
   </component>
 </application>
