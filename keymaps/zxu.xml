@@ -1,4 +1,5 @@
 <keymap version="1" name="zxu" parent="$default">
+  <action id="$ChooseTranslatorAction" />
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -34,6 +35,7 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="DBNavigator.Actions.MainMenu.OpenSessionBrowser" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
@@ -101,6 +103,7 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="SendEOF" />
+  <action id="SonarLint.AnalyzeFiles" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.CopyWatch" />
   <action id="context.clear" />
