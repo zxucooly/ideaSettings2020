@@ -1,8 +1,6 @@
 <application>
   <component name="ProjectViewSharedSettings">
-    <option name="autoscrollToSource" value="true" />
     <option name="flattenModules" value="true" />
-    <option name="foldersAlwaysOnTop" value="false" />
     <option name="sortByType" value="true" />
   </component>
 </application>
