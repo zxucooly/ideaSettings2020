@@ -234,6 +234,10 @@
           <option name="url" value="https://github.com.cnpmjs.org/netty/netty.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://hub.fastgit.org/daoshenzzg/socket-mqtt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\GitHub" />
