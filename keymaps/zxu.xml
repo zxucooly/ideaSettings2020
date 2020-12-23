@@ -1,0 +1,113 @@
+<keymap version="1" name="zxu" parent="$default">
+  <action id="$ChooseTranslatorAction" />
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="$ShowTranslationDialogAction" />
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="ChangesView.Diff">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="ChangesView.Move" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift alt w" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.SetDefault" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="DBNavigator.Actions.MainMenu.OpenSessionBrowser" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="DumpLookupElementWeights" />
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift alt x" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl alt m" />
+    <keyboard-shortcut first-keystroke="shift alt m" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="SendEOF" />
+  <action id="SonarLint.AnalyzeFiles" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="context.clear" />
+  <action id="context.save" />
+  <action id="openAssertEqualsDiff" />
+  <action id="tasks.close" />
+</keymap>

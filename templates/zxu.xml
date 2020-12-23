@@ -1,0 +1,25 @@
+<templateSet group="zxu">
+  <template name="psfl" value="private static final Logger logger = LoggerFactory.getLogger($fileName$.class);" description="private static final Logger" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="jtest" value="@Test&#10;public void test$END$() throws Exception {&#10;&#10;}" description="JUnit4测试方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="adde" value="// add by zxu $date$ for $END$ end" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="adds" value="// add by zxu $date$ for $END$ end" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

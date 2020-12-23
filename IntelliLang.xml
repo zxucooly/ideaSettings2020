@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>TestOauth2Controller.tokeninfo (com.zxu.demoapi.controller)</display-name>
+      <place><![CDATA[psiMethod().withName("tokeninfo").withParameters().definedInClass("com.zxu.demoapi.controller.TestOauth2Controller")]]></place>
+    </injection>
+  </component>
+</application>
