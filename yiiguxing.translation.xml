@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compliancerate" />
       <item value="project" />
       <item value="sku" />
       <item value="coupon" />
@@ -50,12 +51,11 @@
       <item value="Field" />
       <item value="Filed" />
       <item value="prescribed" />
-      <item value="delivered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
