@@ -16,26 +16,26 @@
       <Rule key="squid:S1172" />
       <Rule key="squid:EmptyStatementUsageCheck" />
       <Rule active="false" key="Web:EpointJsSymbolCheck" />
-      <Rule active="false" key="squid:UndocumentedApi" />
       <Rule key="squid:S1845" />
-      <Rule key="squid:S1066" />
+      <Rule active="false" key="squid:UndocumentedApi" />
       <Rule key="squid:S18541" />
+      <Rule key="squid:S1066" />
       <Rule key="squid:S00117" />
-      <Rule key="squid:S818" />
       <Rule key="squid:S1065" />
-      <Rule key="squid:SE-GGAQ-018" />
+      <Rule key="squid:S818" />
       <Rule key="squid:S1068" />
+      <Rule key="squid:SE-GGAQ-018" />
       <Rule key="squid:S1124" />
       <Rule key="squid:UselessImportCheck" />
       <Rule key="squid:SE2018" />
       <Rule key="squid:S44251" />
-      <Rule key="squid:S1481" />
       <Rule key="squid:MissingDeprecatedCheck" />
+      <Rule key="squid:S1481" />
       <Rule key="squid:UnusedPrivateMethod" />
       <Rule active="false" key="java:S3457" />
       <Rule active="false" key="squid:S2094" />
       <Rule key="squid:S29751" />
-      <Rule key="squid:CallToDeprecatedMethod" />
+      <Rule active="false" key="squid:CallToDeprecatedMethod" />
     </rules>
   </component>
 </application>
