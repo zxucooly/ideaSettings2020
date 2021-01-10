@@ -21,7 +21,7 @@
       <Rule active="false" key="squid:UndocumentedApi" />
       <Rule key="squid:S18541" />
       <Rule key="squid:S1066" />
-      <Rule key="squid:S00117" />
+      <Rule active="false" key="squid:S00117" />
       <Rule key="squid:S818" />
       <Rule key="squid:S1065" />
       <Rule key="squid:SE-GGAQ-018" />
