@@ -1,0 +1,71 @@
+<profile version="1.0">
+  <option name="myName" value="Default" />
+  <inspection_tool class="AlibabaAbstractClassShouldStartWithAbstractNaming" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaAvoidCommentBehindStatement" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaClassNamingShouldBeCamel" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="AlibabaLowerCamelCaseVariableNaming" enabled="false" level="CRITICAL" enabled_by_default="false" />
+  <inspection_tool class="AlibabaMethodTooLong" enabled="false" level="MAJOR" enabled_by_default="false" />
+  <inspection_tool class="ClassEscapesItsScope" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <Languages>
+      <language minSize="118" name="Java" />
+    </Languages>
+  </inspection_tool>
+  <inspection_tool class="Duplicates" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="myValues">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="HtmlUnknownBooleanAttribute" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JavaDoc" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="TOP_LEVEL_CLASS_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="" />
+      </value>
+    </option>
+    <option name="INNER_CLASS_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="" />
+      </value>
+    </option>
+    <option name="METHOD_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+      </value>
+    </option>
+    <option name="FIELD_OPTIONS">
+      <value>
+        <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+        <option name="REQUIRED_TAGS" value="" />
+      </value>
+    </option>
+    <option name="IGNORE_DEPRECATED" value="false" />
+    <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+    <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+    <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+    <option name="myAdditionalJavadocTags" value="date,description" />
+  </inspection_tool>
+  <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreAnonymousInnerClasses" value="false" />
+    <option name="superClassString" value="java.awt.Component" />
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
+  <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="WeakerAccess" enabled="true" level="INFORMATION" enabled_by_default="true">
+    <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="true" />
+    <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />
+    <option name="SUGGEST_PRIVATE_FOR_INNERS" value="true" />
+  </inspection_tool>
+</profile>
