@@ -15,6 +15,7 @@
       <Rule active="false" key="squid:SE-version" />
       <Rule key="squid:S1172" />
       <Rule key="squid:EmptyStatementUsageCheck" />
+      <Rule active="false" key="Web:EpointJsSymbolCheck" />
       <Rule key="squid:UndocumentedApi" />
       <Rule key="squid:S1845" />
       <Rule key="squid:S18541" />
