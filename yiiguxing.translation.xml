@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
       <item value="compliancerate" />
       <item value="project" />
       <item value="sku" />
@@ -50,7 +51,6 @@
       <item value="hassafetyhelmet" />
       <item value="Field" />
       <item value="Filed" />
-      <item value="prescribed" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618295928692" />
+    <option name="lastTrimTime" value="1618797259792" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
