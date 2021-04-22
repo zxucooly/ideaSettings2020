@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="diagnostics" />
       <item value="milliseconds" />
       <item value="compliancerate" />
       <item value="project" />
@@ -50,7 +51,6 @@
       <item value="ha safety helmet" />
       <item value="hassafetyhelmet" />
       <item value="Field" />
-      <item value="Filed" />
     </histories>
     <option name="languageScores">
       <map>
