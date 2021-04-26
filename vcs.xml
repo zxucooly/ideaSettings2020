@@ -250,9 +250,13 @@
           <option name="url" value="https://gitee.com/niandeng/ckplayer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.0.200/frame-public-group/epoint-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\GitHub" />
+    <option name="cloneParentDir" value="D:\GitLabEP" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
