@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="save Form" />
       <item value="diagnostics" />
       <item value="milliseconds" />
       <item value="compliancerate" />
@@ -50,7 +51,6 @@
       <item value="Angle" />
       <item value="ha safety helmet" />
       <item value="hassafetyhelmet" />
-      <item value="Field" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619339232207" />
+    <option name="lastTrimTime" value="1620202638404" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
