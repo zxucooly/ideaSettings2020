@@ -270,6 +270,10 @@
           <option name="url" value="https://gitee.com/zxucooly/RuoYi-Vue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/zxucooly/ruoyi-vue-pro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\GitHub" />
